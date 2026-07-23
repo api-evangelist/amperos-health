@@ -1,0 +1,24 @@
+# Amperos Health
+
+> Amperos Health (Amperos) is an AI-native insurance revenue recovery platform for healthcare providers. It pairs agentic AI with experienced revenue cycle management (RCM) specialists to run the full insurance collections process — from claim submission through denial resolution to payment — automating routine first-touch tasks and working complex denials with specialist oversight. Amperos currently exposes a marketing and demo-request surface rather than a public developer API.
+
+## Company
+- [Home](https://www.amperos.com/): Company overview and platform outcomes.
+- [About](https://www.amperos.com/about): About Amperos.
+- [Blog](https://www.amperos.com/blog): Company blog and case studies.
+- [Request a Demo](https://www.amperos.com/request-a-demo): Primary sign-up / contact path.
+- [Login](https://app.amperos.com/): Customer application login.
+- [ROI Calculator](https://www.amperos.com/roi): Revenue recovery ROI estimator.
+
+## Solutions
+- [End-to-End Insurance Recovery](https://www.amperos.com/end-to-end-insurance-recovery): Full collections lifecycle management.
+- [Specialties](https://www.amperos.com/specialties): Specialty-specific RCM (orthopedics, cardiology, behavioral health, DME/HME, ophthalmology, anesthesiology, dermatology, urology, dental, oncology).
+
+## Legal
+- [Privacy Policy](https://www.amperos.com/privacy-policy)
+- [Terms & Conditions](https://www.amperos.com/terms)
+
+## Notes
+- Backed by Uncork Capital.
+- No public developer API, OpenAPI specification, SDKs, or MCP server published as of 2026-07-17.
+- Displays SOC 2 and HIPAA compliance badges; no dedicated public trust center page found.
